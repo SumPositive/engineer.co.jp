@@ -1,5 +1,5 @@
 # engineer.co.jp
-ENGINEER LLC Information site.　エンジニア合同会社　情報公開サイト
+ENGINEER LLC Information site　エンジニア合同会社　情報公開サイト
 
 
 ## Contract documents　契約書類
