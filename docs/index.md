@@ -2,6 +2,7 @@
 # エンジニア合同会社　情報公開サイト
 
 ---
+<br><br>
 
 ## Contract documents　契約書類
 
@@ -9,7 +10,7 @@
 
 - [Privacy policy　プライバシーポリシー](./PrivacyPolicy.md)
 
-
+<br><br>
 
 ## Technical documents　技術書類
 
