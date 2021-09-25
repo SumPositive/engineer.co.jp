@@ -4,12 +4,14 @@
 
 # Contract documents　契約書類
 
-## EULA　エンドユーザー使用許諾契約書
+<br>
+
+## ● EULA　エンドユーザー使用許諾契約書
 
 - [日本語](./EULA.md)
 - [English](./EULA_en.md)
 
-## Privacy policy　プライバシーポリシー
+## ● Privacy policy　プライバシーポリシー
 
 - [日本語](./PrivacyPolicy.md)
 - [English](./PrivacyPolicy_en.md)
