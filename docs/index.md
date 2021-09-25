@@ -3,8 +3,8 @@ ENGINEER LLC Information site　エンジニア合同会社　情報公開サイ
 
 
 ## Contract documents　契約書類
-- [EULA　エンドユーザー使用許諾契約書](/docs/EULA.md)
-- [Privacy policy　プライバシーポリシー](/docs/PrivacyPolicy.md)
+- [EULA　エンドユーザー使用許諾契約書](./EULA.md)
+- [Privacy policy　プライバシーポリシー](/PrivacyPolicy.md)
 
 
 ## Technical documents　技術書類
