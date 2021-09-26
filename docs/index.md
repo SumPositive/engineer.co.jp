@@ -6,7 +6,7 @@
 
 <br>
 
-## ● EULA　エンドユーザー使用許諾契約書
+## ● EULA　エンドユーザー使用許諾契約
 
 - [日本語](./EULA.md)
 - [English](./EULA_en.md)
