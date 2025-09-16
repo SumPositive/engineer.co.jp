@@ -1,11 +1,12 @@
 
 # Privacy policy
 
-The Engineer Joint Company (hereinafter, "our company") has the following privacy policy (hereinafter, "this policy") regarding the handling of user's personal information in the service provided by websites and applications (hereinafter, "this service"). ) Is determined.
+Engineers LLC ("the Company") sets forth the following privacy policy ("Policy") regarding the handling of users' personal information in services provided via our websites and applications (collectively, the "Service").
+This Policy is established as follows.
 
 ## Article 1 (Personal information)
 
-"Personal information" refers to "personal information" as defined in the Personal Information Protection Law, and is information about living individuals, such as name, date of birth, address, telephone number, contact information, etc. contained in the information. Information that can identify a specific individual by the description etc. and information that can identify a specific individual from the relevant information alone such as appearance, fingerprint, voiceprint data, and insurer number of health insurance certificate (personal identification information) ..
+"Personal information" refers to "personal information" as defined in the Personal Information Protection Law, meaning information about living individuals, such as names, dates of birth, addresses, telephone numbers, contact details, and other information contained therein. It also includes information that can identify a specific individual through descriptions and information that can identify a specific individual on its own, such as appearance, fingerprint and voiceprint data, and the insurer number on a health insurance certificate (personal identification information).
 
 ## Article 2 (How to collect personal information)
 
