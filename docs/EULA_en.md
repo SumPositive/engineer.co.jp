@@ -10,7 +10,7 @@ This End User License Agreement (“EULA”) is an application or software curre
 
 ## Article 1 (License)
 
-Non-exclusive, non-transferable, re-installation and use of this product (part or all) and any product (the "License") until either you or Azukid terminate this EULA. We grant you a non-licensable, non-commercial personal license. You may not use this product or this license for commercial purposes or permit others to use it under any circumstances without the permission of Azukid. Updates, upgrades, patches, and fixes may be required to continue using the product on certain hardware. This product is licensed to you, but not sold.
+Subject to your compliance with this EULA, Azukid grants you a personal, non-exclusive, non-transferable, non-sublicensable, non-commercial license to install and use the Product (in whole or in part) until either you or Azukid terminates this EULA (the "License"). You may not use the Product or the License for commercial purposes or permit others to use it under any circumstances without Azukid's prior permission. Updates, upgrades, patches, and fixes may be required to continue using the Product on certain hardware. The Product is licensed to you, not sold.
 
 1. Some of the Products may use third-party features, some of which may be managed by a third-party provider and may incur additional terms and conditions costs. You must comply with the applicable additional terms. Please check the applicable additional conditions and costs carefully.
 
