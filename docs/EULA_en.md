@@ -1,7 +1,7 @@
 
 # End User License Agreement (EULA)
 
-This End User License Agreement (“EULA”) is an application or software currently or will be provided by Engineers LLC or its affiliated or related creators (collectively, “Azukid”). Licenses you to use its related upgrades, patches, and updates and related services (the "Product").
+This End User License Agreement ("EULA") governs your use of applications and software provided now or in the future by Engineers LLC or its affiliated or related creators (collectively, "Azukid"), including related upgrades, patches, updates, and services (the "Product").
 
 1. This EULA stipulates the principle when Azukid licenses this product to the customer (hereinafter referred to as "user" or "customer") and the principle when the customer uses this product. Azukid's Privacy Policy (“Privacy Policy”)(https://info.engineer.co.jp/PrivacyPolicy_en.html) forms an important part of this EULA. By installing or using this product, you accept this EULA and your privacy policy and agree to comply with them at all times. If you do not agree to any of these, do not install or use this product.
 
