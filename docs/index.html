@@ -1,0 +1,229 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>エンジニア合同会社 | ENGINEER LLC</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --azuki:       #a05060;
+      --azuki-dark:  #7a3a48;
+      --azuki-deep:  #3a1820;
+      --azuki-light: #fdf5f6;
+      --azuki-pale:  #f5e8ea;
+      --white:       #ffffff;
+      --gray:        #7a6065;
+      --border:      #e8d5d8;
+      --shadow:      0 2px 12px rgba(160,80,96,.10);
+    }
+
+    body {
+      font-family: "Helvetica Neue", "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                   "Noto Sans JP", Arial, sans-serif;
+      background: var(--azuki-light);
+      color: #2d1a1e;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--azuki-deep);
+      color: var(--white);
+      padding: 0 1.5rem;
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 0 1.8rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+    .logo-mark {
+      width: 56px;
+      height: 56px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .logo-mark img {
+      width: 56px;
+      height: 56px;
+      object-fit: contain;
+    }
+    .logo-text h1 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      letter-spacing: .04em;
+    }
+    .logo-text p {
+      font-size: .8rem;
+      color: #c8a8ae;
+      margin-top: .15rem;
+      letter-spacing: .08em;
+    }
+
+    /* ── Main ── */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 4rem;
+    }
+
+    .section-title {
+      font-size: .75rem;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--gray);
+      border-left: 3px solid var(--azuki);
+      padding-left: .75rem;
+      margin-bottom: 1.2rem;
+    }
+
+    /* ── Card grid ── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+    }
+    .card {
+      background: var(--white);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      transition: box-shadow .2s, transform .2s;
+    }
+    .card:hover {
+      box-shadow: 0 6px 24px rgba(160,80,96,.20);
+      transform: translateY(-2px);
+    }
+    .card-header {
+      background: var(--azuki-deep);
+      padding: .9rem 1.2rem;
+      border-bottom: 2px solid var(--azuki);
+    }
+    .card-header .doc-type {
+      font-size: .65rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: #c8a8ae;
+      margin-bottom: .3rem;
+    }
+    .card-header h2 {
+      font-size: 1rem;
+      color: var(--white);
+      font-weight: 700;
+    }
+    .card-header .subtitle {
+      font-size: .8rem;
+      color: #d4b8bc;
+      margin-top: .2rem;
+    }
+    .card-links {
+      padding: .9rem 1.2rem;
+      display: flex;
+      gap: .75rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: .4rem;
+      padding: .45rem 1rem;
+      border-radius: 6px;
+      font-size: .85rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background .15s, color .15s;
+    }
+    .btn-primary {
+      background: var(--azuki);
+      color: var(--white);
+    }
+    .btn-primary:hover { background: var(--azuki-dark); }
+    .btn-outline {
+      border: 1.5px solid var(--border);
+      color: #7a4050;
+      background: transparent;
+    }
+    .btn-outline:hover { background: var(--azuki-pale); }
+
+    /* ── Footer ── */
+    footer {
+      background: var(--azuki-deep);
+      color: #c8a8ae;
+      text-align: center;
+      font-size: .8rem;
+      padding: 1.5rem 1rem;
+    }
+    footer a { color: #c8a8ae; }
+
+    /* ── Responsive ── */
+    @media (max-width: 480px) {
+      .header-inner { flex-direction: column; align-items: flex-start; gap: .8rem; }
+      .card-links { flex-direction: column; }
+      .btn { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo-mark">
+      <img src="./EG icon1024 透過.png" alt="エンジニア合同会社ロゴ">
+    </div>
+    <div class="logo-text">
+      <h1>エンジニア合同会社</h1>
+      <p>ENGINEER LLC &nbsp;—&nbsp; Information Site</p>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <p class="section-title">Contract Documents &nbsp;契約書類</p>
+  <div class="card-grid">
+
+    <div class="card">
+      <div class="card-header">
+        <div class="doc-type">License Agreement</div>
+        <h2>EULA</h2>
+        <div class="subtitle">エンドユーザー使用許諾契約</div>
+      </div>
+      <div class="card-links">
+        <a class="btn btn-primary" href="./EULA.html">日本語</a>
+        <a class="btn btn-outline" href="./EULA_en.html">English</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div class="doc-type">Privacy</div>
+        <h2>Privacy Policy</h2>
+        <div class="subtitle">プライバシーポリシー</div>
+      </div>
+      <div class="card-links">
+        <a class="btn btn-primary" href="./PrivacyPolicy.html">日本語</a>
+        <a class="btn btn-outline" href="./PrivacyPolicy_en.html">English</a>
+      </div>
+    </div>
+
+  </div>
+
+</main>
+
+<footer>
+  &copy; ENGINEER LLC &nbsp;|&nbsp; <a href="mailto:info@engineer.co.jp">info@engineer.co.jp</a>
+</footer>
+
+</body>
+</html>

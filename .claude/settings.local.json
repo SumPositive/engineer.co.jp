@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/sumpositive/GitLocal/engineer.co.jp/docs/*.png)"
+    ]
+  }
+}
